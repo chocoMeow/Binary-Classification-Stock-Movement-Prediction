@@ -1,4 +1,3 @@
-##### Binary Classification
+##### Use binary classification to redict movement of stock market after 1 week
+##### Random Forest classifier
 ##### Python
-##### Random Forest Classifier
-##### Predict movement of stock market after 1 week
